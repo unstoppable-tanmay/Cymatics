@@ -1,16 +1,8 @@
-# cymatics
+# Cymatics
 
-A new Flutter project.
+A Music Player App with Flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Somg Images
+  ![player](https://github.com/unstoppable-tanmay/Cymatics/assets/85018447/c509aca1-5893-4216-8548-dd9b8a5d4277)
+  ![loader](https://github.com/unstoppable-tanmay/Cymatics/assets/85018447/867d4068-7452-4397-a625-8c23e5d90b19)
